@@ -1,0 +1,5 @@
+donnees_prepared_10percent.csv
+mlruns/*.pkl
+donnees_prepared_10percent.csv
+mlruns/
+*.pkl
