@@ -63,7 +63,7 @@ def main():
             step=1
         )
     
-    # --- Bouton de Prédictions ---
+    # --- Bouton de Prédiction ---
     if st.button("Obtenir la Prédiction"):
         
         # Affichage du spinner pendant l'appel API
