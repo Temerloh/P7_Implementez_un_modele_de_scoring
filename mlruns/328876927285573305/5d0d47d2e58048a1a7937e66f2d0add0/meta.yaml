@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/lucas/Desktop/Projet_API/Utile/mlruns/328876927285573305/5d0d47d2e58048a1a7937e66f2d0add0/artifacts
+end_time: 1764102027658
+entry_point_name: ''
+experiment_id: '328876927285573305'
+lifecycle_stage: active
+run_id: 5d0d47d2e58048a1a7937e66f2d0add0
+run_name: LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764101975187
+status: 3
+tags: []
+user_id: lucas
