@@ -1,4 +1,7 @@
 donnees_prepared_10percent.csv
+mlruns/*.pkl
 donnees_prepared_10percent.csv
+mlruns/
+*.pkl
 streamlit1
 streamlit1.pem
