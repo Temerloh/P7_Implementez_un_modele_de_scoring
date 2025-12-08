@@ -5,3 +5,4 @@ mlruns/
 *.pkl
 streamlit1
 streamlit1.pem
+model.pkl
