@@ -113,5 +113,4 @@ def main():
             except Exception as e:
                 st.error(f"Une erreur inattendue est survenue: {e}")
 
-if __name__ == "__main__":
-    main()
+main()
